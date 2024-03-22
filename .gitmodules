@@ -1,0 +1,9 @@
+[submodule "Containerinstance"]
+	path = Containerinstance
+	url = https://github.com/mahesh-cool/Containerinstance.git
+[submodule "azurestorageacccount"]
+	path = azurestorageacccount
+	url = https://github.com/mahesh-cool/azurestorageacccount.git
+[submodule "terraformfiles"]
+	path = terraformfiles
+	url = https://github.com/mahesh-cool/terraformfiles.git
